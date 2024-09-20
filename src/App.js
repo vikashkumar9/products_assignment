@@ -29,6 +29,8 @@ function App() {
 
   return (
     <div>
+      <h2>Vikash</h2>
+      <p>vikashparjapati59@gmail.com</p>
       {location.pathname === "/" && (
         <Link
           to="/login"
