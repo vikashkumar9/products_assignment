@@ -1,0 +1,12 @@
+export const CATEGORY = "Category";
+export const PRICE = "Price";
+export const EXISTING_PRODUCTS = "Existing Products";
+export const ADD_PRODUCT = "Add Product";
+export const WELCOME = "Welcome";
+export const UPDATE_PRODUCT = " Update Product";
+export const LOGIN = "Login";
+export const EDIT = "Edit";
+export const BACK = "Back";
+export const NEW_PRODUCT = "New Products";
+export const DESCRIPTION = "Description";
+export const BRAND = "Brand";
